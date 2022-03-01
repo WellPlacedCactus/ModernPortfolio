@@ -1,0 +1,23 @@
+
+.content {
+  margin: 15px 0;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.item img {
+  width: 5%;
+  margin: 5px;
+}
+
+.item div {
+  margin: 5px;
+}
+
+.item h2, h3 {
+  margin: 5px 0;
+}
